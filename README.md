@@ -1,2 +1,2 @@
-# Really-crappy-clock
-Its just crappy, but in 24 hour time
+# My rubbish C files that I've made
+Its just crappy scripts
